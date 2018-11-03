@@ -1,0 +1,1 @@
+read.csv("C:\\Users\\usuario\\Desktop\\Actividad_1.txt", TRUE,",")
