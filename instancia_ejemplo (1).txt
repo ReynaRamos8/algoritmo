@@ -1,0 +1,3 @@
+write("hola mundo","C:\\Users\\luizg\\Documents\\algoritmos\\reyna.txt"
+      )
+
